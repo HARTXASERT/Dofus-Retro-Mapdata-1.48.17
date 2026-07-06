@@ -44,7 +44,7 @@ Si encuentras algún error o deseas mejorar este repositorio, las contribuciones
 Si este proyecto te ha sido útil y deseas apoyar mi trabajo, puedes invitarme un café.
 
 <p align="center">
-    <a href="https://paypal.me/yilsonvasquez">
+    <a target="_blank" href="https://paypal.me/yilsonvasquez">
         <img src="https://img.shields.io/badge/☕%20Invítame%20un%20café-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
     </a>
 </p>
@@ -87,7 +87,7 @@ Les **Issues** et **Pull Requests** sont les bienvenues afin d'améliorer ce pro
 Si ce projet vous a été utile et que vous souhaitez soutenir mon travail, vous pouvez m'offrir un café.
 
 <p align="center">
-    <a href="https://paypal.me/yilsonvasquez">
+    <a target="_blank" href="https://paypal.me/yilsonvasquez">
         <img src="https://img.shields.io/badge/☕%20M'offrir%20un%20café-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
     </a>
 </p>
